@@ -1,0 +1,2 @@
+# tty.js
+tidd
